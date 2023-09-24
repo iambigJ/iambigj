@@ -6,7 +6,6 @@ nodeJS | php | developer
 
 I'm delighted to be a small part of the open-source community. I'm eager to contribute and help push the boundaries even further.
 
-* 🌍  I'm based in istanbul
 * 🖥️  See my portfolio at [my personal website](http://https://iambigj.xyz/portfolio/)
 * ✉️  You can contact me at [alijavadij@gmail.com](mailto:alijavadij@gmail.com)
 * 🚀  I'm currently working on [upwork](http://upwork.com)
