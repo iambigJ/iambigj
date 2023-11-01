@@ -8,7 +8,6 @@ I'm delighted to be a small part of the open-source community. I'm eager to cont
 
 * 🖥️  See my portfolio at [my personal website](http://https://iambigj.xyz/portfolio/)
 * ✉️  You can contact me at [alijavadij@gmail.com](mailto:alijavadij@gmail.com)
-* 🚀  I'm currently working on [upwork](http://upwork.com)
 * 🧠  I'm learning advanced concepts of data structures
 * 🤝  I'm open to collaborating on develop and maintain big scall nodejs application
 * ⚡  iambigj and tell every one
