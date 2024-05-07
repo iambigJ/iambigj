@@ -8,7 +8,7 @@ I'm delighted to be a small part of the open-source community. I'm eager to cont
 
 * 🖥️  for more infomation -> [my personal website](http://https://iambigj.info/portfolio/)
 * ✉️  You can contact me at [alijavadij@gmail.com](mailto:alijavadij@gmail.com)
-* 🧠  I'm learning advanced concepts of create big scale applications
+* 🧠  I'm learning advanced concepts for scaling web applications
 * 🤝 I'm currently focused on developing a large-scale VSaaS enterprise application, but I'm always happy to contribute to the community in any way I can.
 * ⚡  iambigj and tell every one
 
