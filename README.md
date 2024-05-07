@@ -6,10 +6,10 @@ Backend Nodejs developer
 
 I'm delighted to be a small part of the open-source community. I'm eager to contribute and help push the boundaries even further.
 
-* 🖥️  See my portfolio at [my personal website](http://https://iambigj.xyz/portfolio/)
+* 🖥️  for more infomation -> [my personal website](http://https://iambigj.info/portfolio/)
 * ✉️  You can contact me at [alijavadij@gmail.com](mailto:alijavadij@gmail.com)
 * 🧠  I'm learning advanced concepts of create big scale applications
-* 🤝  I'm open to collaborating on develop and maintain big scall nodejs application
+* 🤝 I'm currently focused on developing a large-scale VSaaS enterprise application, but I'm always happy to contribute to the community in any way I can.
 * ⚡  iambigj and tell every one
 
 ### Skills
