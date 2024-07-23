@@ -1,12 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ali Javadi
-==================================================================================================================================
-
-Backend Nodejs developer
-------------------------
 
 I'm delighted to be a small part of the open-source community. I'm eager to contribute and help push the boundaries even further.
 
-* 🖥️  for more infomation -> [my personal website](http://https://iambigj.info/portfolio/)
 * ✉️  You can contact me at [alijavadij@gmail.com](mailto:alijavadij@gmail.com)
 * 🧠  I'm learning advanced concepts for scaling web applications
 * 🤝 I'm currently focused on developing a large-scale VSaaS enterprise application, but I'm always happy to contribute to the community in any way I can.
