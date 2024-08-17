@@ -1,5 +1,5 @@
 
-I'm delighted to be a small part of the open-source community.
+I'm Happy to be a small part of the open-source community.
 
 * ✉️  You can contact me at [alijavadij@gmail.com](mailto:alijavadij@gmail.com)
 * 🧠  I'm learning advanced concepts for scaling web applications
