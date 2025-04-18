@@ -4,7 +4,7 @@ I'm Happy to be a small part of the open-source community.
 * ✉️  You can contact me at [alijavadij@gmail.com](mailto:alijavadij@gmail.com)
 * 🧠  I'm learning advanced concepts for scaling web applications
 * 💬 Ask me about every thing about backend engineering especially Nodejs and Typescript  
-* 🤝 I'm currently focused on developing a large-scale VSaaS enterprise application, but I'm always happy to contribute to the community in any way I can.
+* 🤝 I'm currently focused on developing a large-scale nodejs microservice app, but I'm always happy to contribute to the community in any way I can.
 * ⚡  iambigj and tell every one
 
 ### Socials
